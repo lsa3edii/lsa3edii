@@ -3,12 +3,16 @@
 
 <p align="center"> <img alt="GIF" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="555" height="325" /> </p>
 
+<h3 align="center">A software engineer who loves programming and is passionate about challenges and problem solving. I aspire to become stronger and stronger in my field.</h2>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lsa3edii&label=Profile%20views&color=0e75b6&style=flat" alt="lsa3edii" /> </p>
 
 <h3 align="left">👨‍💻 About me:</h3>
 
-- 🔭 I’m currently Computer Science Student at Faculty of Computers and Artificial Intelligence at Helwan University
-- 🌱 I’m currently learning Computer Science
+- 🔭 I graduated from the Faculty of **Computers and Artificial Intelligence**, Helwan University
+- 🌱 I’m currently learning **Computer Science**
+- ✨ I'm particularly interested in **Backend Development, DevOps..**
+- 📄 Know about my experiences [**Resume & CV**](https://drive.google.com/file/d/1Pwd18Q72jHArX2TD1qPN8fUcUP9BFhpv/view?usp=drive_link)
 - 📫 How to reach me **moohamedaibrahim7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
