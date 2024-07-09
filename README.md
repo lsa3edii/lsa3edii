@@ -12,7 +12,7 @@
 - 🔭 I graduated from the Faculty of **Computers and Artificial Intelligence**, Helwan University
 - 🌱 I’m currently learning **Computer Science**
 - ✨ I'm particularly interested in **Backend Development, DevOps..**
-- 📄 Know about my experiences [**Resume & CV**](https://drive.google.com/file/d/1Pwd18Q72jHArX2TD1qPN8fUcUP9BFhpv/view?usp=drive_link)
+- 📄 Know about my experiences [**Resume & CV**](https://drive.google.com/drive/folders/1EYJzbOU4BDZk9gtBQnZmr3_QHRr2yr3b?usp=sharing)
 - 📫 How to reach me **moohamedaibrahim7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
